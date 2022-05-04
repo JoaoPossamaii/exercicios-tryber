@@ -150,9 +150,13 @@ O programa conta com mais de 1.500 horas de aulas presenciais e on-line, introdu
 ## Bloco 13: Reagir
 
 13-1: Melhorando o reuso de componentes: props.children e PropTypes
+
 13-2: Ciclo de vida de componentes em React
+
 13-3: Reagir Roteador
+
 13-4: Projeto - Biblioteca de Cartões de Filme CRUD
+
 
 ## Bloco 14: Metodologias Ágeis
 
