@@ -1,6 +1,6 @@
-# **TRYBE**
+# TRYBE
 
-Este repositório contém todas as atividades de aprendizagem desenvolvidas por João Antônio Possamai enquanto estudava na Trybe. foguete
+Este repositório contém todas as atividades de aprendizagem desenvolvidas por João Antônio Possamai enquanto estudava na Trybe.
 
 "A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar a vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."  
 
@@ -8,7 +8,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e on-line, introdu
 
 
 # **Fundamentos do Desenvolvimento Web**
-===============================================================
+
 
 ## Bloco 1: Introdução - Unix & Shell
 
@@ -85,8 +85,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e on-line, introdu
 10-3: Jest - Simulando o comportamento
 10-4: Projeto - Jest Assíncrono e Zombando
 
-# **Desenvolvimento Front-endampulheta_corrente_areia**
-===============================================================
+# **Desenvolvimento Front-end**
+
 
 ## Bloco 11: Introdução - Reagir
 
@@ -142,8 +142,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e on-line, introdu
 
 19-1: Projeto - App de Receitas
 
-# **Desenvolvimento Back-endampulheta_corrente_areia**
-===============================================================
+# **Desenvolvimento Back-end**
+
 
 ## Bloco 20: Introdução - Bancos de dados relacionais
 
@@ -238,8 +238,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e on-line, introdu
 
 34-1: Projeto - Trybeer V2
 
-# **Ciência da Computaçãoampulheta_corrente_areia**
-===============================================================
+# **Ciência da Computação**
+
 
 ## Bloco 35: Introdução - Ciência da Computação
 
@@ -251,7 +251,11 @@ O programa conta com mais de 1.500 horas de aulas presenciais e on-line, introdu
 ## Bloco 36: Python
 
 35-1: Aprendendo Python
+
 35-2: Testes e Exceções
+
 35-3: Entrada e saída de dados
+
 36-4: Entrada e saída de dados
+
 35-5: Projeto - Notícias de tecnologia
