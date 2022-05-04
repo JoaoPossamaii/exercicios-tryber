@@ -1,0 +1,2 @@
+# exercicios-tryber
+Este contém todas as atividades de aprendizagem desenvolvidas por João Antônio Possamai enquanto estudava na Trybe foguete  "A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar a vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."  O programa conta com mais de 1.500 horas de aulas presenciais e on-line, introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e comportamentais.
