@@ -1,6 +1,6 @@
-# **TRYBE** 
+# **TRYBE**
 
-Este contém todas as atividades de aprendizagem desenvolvidas por João Antônio Possamai enquanto estudava na Trybe. foguete
+Este repositório contém todas as atividades de aprendizagem desenvolvidas por João Antônio Possamai enquanto estudava na Trybe. foguete
 
 "A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar a vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."  
 
@@ -78,7 +78,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e on-line, introdu
 9-1: JavaScript Assíncrono e Callbacks
 9-2: Promessas de JavaScript
 9-3: Projeto - Carrinho de Compras
-Bloco 10: Jest
+
+## Bloco 10: Jest
 10-1: Primeiros passos no Jest
 10-2: Jest - Testes Assíncronos
 10-3: Jest - Simulando o comportamento
@@ -92,7 +93,9 @@ Bloco 10: Jest
 11-1: 'Olá, mundo!' não reaja!
 11-2: Componentes Reagem
 11-3: Projeto - Biblioteca de Cartões de Filmes
-Bloco 12: Reagir
+
+## Bloco 12: Reagir
+
 12-1: Componentes com estado
 12-2: Eventos e formas no React
 12-3: Projeto - Movie Cards Library Stateful
@@ -103,7 +106,9 @@ Bloco 12: Reagir
 13-2: Ciclo de vida de componentes em React
 13-3: Reagir Roteador
 13-4: Projeto - Biblioteca de Cartões de Filme CRUD
-Bloco 14: Metodologias Ágeis
+
+## Bloco 14: Metodologias Ágeis
+
 14-1: Metodologias Ágeis
 14-2: Projeto - Loja Online Frontend
 
