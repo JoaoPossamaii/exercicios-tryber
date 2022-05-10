@@ -1,0 +1,76 @@
+* { margin: 0;
+    padding: 0;
+}
+
+body { background-color: whitesmoke; }
+        body { font-family: 'Montserrat', sans-serif}
+        h1, h3 { color: #0a7e51}
+
+        .name-green { color: #0a7e51;}
+        #ide {color: rgb(44, 143, 14);}
+
+        .hero-type {
+            font-size: 45px;
+            line-height: 55px;
+            font-weight: 600;
+         }
+
+        .market-heading {
+             font-size: 28px;
+             line-height:  42px;
+             font-weight: 600;
+         } 
+        .testimonial-2-heading {
+            font-size: 28px;
+            line-height: 30px;
+            font-weight: 600;        
+        }
+        .program-column-heading {
+            font-size: 28px;
+            line-height: 36px;
+            font-weight: 600;
+        }
+        .student-testimonial-photo {
+            border-radius: 100%;
+        }
+
+        .testimonial-photo {
+            border-radius: 100%;
+        }
+
+        .button {
+            border-radius: 4px;
+            background-color: #11a36a;
+            color: #fff;
+            padding: 15px 30px;
+            font-size: 16px;
+            line-height: 20px;
+            font-weight: 700;
+            text-align: center;
+            font-family: Montserrat, sans-serif;
+        }
+
+        #header {
+            border: 2px red solid;
+            background-image: url(./foto/smiling-image.jpg);
+            background-size: cover;
+            background-position: 50% 25%;
+            padding: 60px 30px 40px 30px;
+        }
+
+        #header-content {
+            max-width: 50%;
+            margin-left: 75px;
+            
+        }
+
+        #header-text {
+            max-width: 85%;
+
+        }
+
+
+        #sign-up {
+            margin-left: 75px;
+
+        }
