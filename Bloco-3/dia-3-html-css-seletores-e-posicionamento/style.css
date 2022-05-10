@@ -51,7 +51,6 @@ body { background-color: whitesmoke; }
         }
 
         #header {
-            border: 2px red solid;
             background-image: url(./foto/smiling-image.jpg);
             background-size: cover;
             background-position: 50% 25%;
@@ -65,12 +64,21 @@ body { background-color: whitesmoke; }
         }
 
         #header-text {
+            margin-top: 40px;
             max-width: 85%;
 
         }
 
 
         #sign-up {
+            margin-top: 40px;
             margin-left: 75px;
+
+        }
+        /* Seção 2 */
+
+        #marketing {
+            border: 2px red solid;
+            text-align: center;
 
         }
