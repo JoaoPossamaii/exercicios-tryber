@@ -80,5 +80,18 @@ body { background-color: whitesmoke; }
         #marketing {
             border: 2px red solid;
             text-align: center;
+            padding: 70px;
+        }
 
+        #marketing-text {
+            max-width: 60%;
+            margin: auto;
+            margin-bottom: 70px;
+        }
+
+        .studentes-content { 
+            width: 30%;
+            display: inline-block;
+            vertical-align: top;
+            margin: 15px;
         }
