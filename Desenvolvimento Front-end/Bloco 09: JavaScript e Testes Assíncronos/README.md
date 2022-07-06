@@ -11,3 +11,5 @@
 * Trabalhar em equipe utilizando a metodologia SCRUM.
 * Testar as aplicações utilizando React Testing Library (RTL).
 * Administrar todo estado das aplicações React utilizando Redux.
+
+continua
